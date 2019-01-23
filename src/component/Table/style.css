@@ -1,0 +1,33 @@
+.Table__img {
+    max-height: 2em;
+    margin: auto;
+    display: block;
+    border-radius: 3px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  td,
+  th {
+    border: thin solid #aaa;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 0.5em;
+  }
+  
+  th {
+    background-color: #40a0c3;
+    color: white;
+  }
+  .fa {
+    margin: 5px;
+  }
+ .fa-trash {
+   color: rgb(134, 44, 44);
+ }
+ .fa-pencil {
+   color: rgb(21, 71, 21);
+ }

@@ -1,0 +1,14 @@
+html {
+  font: 1em sans-serif;
+}
+.Wrapper {
+  width: 1024px; 
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .Wrapper {
+    width: 90%;
+  }
+}
